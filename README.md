@@ -15,18 +15,18 @@ To get started with IrTwitch, follow these steps:
 1. **Clone the Repository:** First, clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/masterking32/irTwitch-App
+git clone https://github.com/irTwitch/irTwitch-App
 ```
 
 2. Setup Flutter!
 
 ## Screenshots:
 
-![screenshot](https://raw.githubusercontent.com/masterking32/irTwitch-App/main/screenshots/2.jpg)
+![screenshot](https://raw.githubusercontent.com/irTwitch/irTwitch-App/main/screenshots/2.jpg)
 
-![screenshot](https://raw.githubusercontent.com/masterking32/irTwitch-App/main/screenshots/1.jpg)
+![screenshot](https://raw.githubusercontent.com/irTwitch/irTwitch-App/main/screenshots/1.jpg)
 
-![screenshot](https://raw.githubusercontent.com/masterking32/irTwitch-App/main/screenshots/3.jpg)
+![screenshot](https://raw.githubusercontent.com/irTwitch/irTwitch-App/main/screenshots/3.jpg)
 
 ## Developer
 
