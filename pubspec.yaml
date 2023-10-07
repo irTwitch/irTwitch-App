@@ -1,0 +1,80 @@
+name: IRTwitch
+description: IRTwitch App
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  # UI & Core Libraries
+  cupertino_icons: ^1.0.2
+
+  # Authentication & Web
+  flutter_web_auth_2: ^2.1.4
+  url_launcher: ^6.1.11
+
+  # Networking
+  http: ^1.0.0
+  socket_io_client: ^2.0.2
+
+  # Data Persistence
+  shared_preferences: ^2.1.2
+  flutter_secure_storage: ^8.0.0
+
+  # Image & Video Handling
+  transparent_image: ^2.0.1
+  better_player: ^0.0.83
+
+  # HTML Rendering
+  flutter_html: ^3.0.0-beta.2
+
+  # Firebase
+  firebase_core: ^2.14.0
+  firebase_analytics: ^10.4.3
+  firebase_crashlytics: ^3.3.3
+  firebase_messaging: ^14.6.3
+
+  # Notifications
+  flutter_local_notifications: ^14.1.1
+
+  # Other Libraries
+  wakelock: ^0.6.2
+  crypto: ^3.0.3
+  fluttertoast: ^8.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Linting
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: IRFont
+      fonts:
+        - asset: fonts/font.ttf
+    - family: Schelter
+      fonts:
+        - asset: fonts/Schelter.ttf
+    - family: Shapiro
+      fonts:
+        - asset: fonts/Shapiro.ttf
+    - family: Biotif Book
+      fonts:
+        - asset: fonts/Biotif_Book.ttf
+    - family: Eina
+      fonts:
+        - asset: fonts/Eina.ttf
+
+  assets:
+    - assets/irtw-logo.png
+    - assets/twitch-logo.png
+    - assets/default_thumb.jpg
