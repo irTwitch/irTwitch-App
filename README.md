@@ -22,6 +22,11 @@ git clone https://github.com/masterking32/irTwitch-App
 
 ## Screenshots:
 
+![screenshot](https://raw.githubusercontent.com/masterking32/irTwitch-App/main/screenshots/2.jpg)
+
+![screenshot](https://raw.githubusercontent.com/masterking32/irTwitch-App/main/screenshots/1.jpg)
+
+![screenshot](https://raw.githubusercontent.com/masterking32/irTwitch-App/main/screenshots/3.jpg)
 
 ## Developer
 
